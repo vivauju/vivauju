@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Vivian Uju
 
-<!--
+I'm an Accountant and Data Analyst. I enjoy cleaning data to make data driven decions, working on spreadsheets and creating visuals to tell a story about the data. I also enjoy working with tools like Google sheets, Microsoft Power-Bi and Excel. 
 **vivauju/vivauju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
