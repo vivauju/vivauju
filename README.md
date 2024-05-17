@@ -1,31 +1,29 @@
-### Hi there 👋, Vivianuju
+### Hi there 👋, I'm Vivian Uju
 #### Accountant and Data Analyst
-![Accountant and Data Analyst](https://www.linkedin.com/in/vivian-ifebunandu-b3a58a23b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEgn%2B2ONLQIOHOMLYk0efqw%3D%3D)
+![Accountant and Data Analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm an Accountant and Data Analyst. I enjoy cleaning data to make data driven decisions, working on spreadsheets and creating visuals to tell a story about the data. I also enjoy working with tools like Google sheets, Microsoft Power-Bi and Excel.
+An Accountant and Data Analyst with a passion for numbers, data, and continuous growth. With a strong foundation in accounting principles and data analysis techniques, I bring a unique blend of skills in making informed financial and business decisions.
 
+Skills: EXCEL / POWER BI / SQL/ FINANCIAL REPORTING
 
-Skills: EXCEL / SQL/ POWER BI / GOOGLE SHEETS 
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
+- 🔭 I’m currently working on a data analysis project 
+- 🌱 I’m currently learning Tableau 
+- 📫 How to reach me: ifebunanduviviano@gmail.com 
+- 😄 Pronouns: She/Her 
 
 
 
 
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
