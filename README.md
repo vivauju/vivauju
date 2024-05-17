@@ -1,7 +1,17 @@
-### Hi there 👋, I'm Vivian Uju
+### Hi there 👋, Vivianuju
+#### Accountant and Data Analyst
+![Accountant and Data Analyst](www.linkedin.com/in/vivian-ifebunandu-b3a58a23b )
 
-I'm an Accountant and Data Analyst. I enjoy cleaning data to make data driven decions, working on spreadsheets and creating visuals to tell a story about the data. I also enjoy working with tools like Google sheets, Microsoft Power-Bi and Excel. 
-**vivauju/vivauju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Accountant and Data Analyst. I enjoy cleaning data to make data driven decisions, working on spreadsheets and creating visuals to tell a story about the data. I also enjoy working with tools like Google sheets, Microsoft Power-Bi and Excel.
+
+
+Skills: EXCEL / SQL/ POWER BI / GOOGLE SHEETS 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
 
 Here are some ideas to get you started:
 
