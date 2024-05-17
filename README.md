@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Vivian Uju
 #### Accountant and Data Analyst
-![Accountant and Data Analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 An Accountant and Data Analyst with a passion for numbers, data, and continuous growth. With a strong foundation in accounting principles and data analysis techniques, I bring a unique blend of skills in making informed financial and business decisions.
 
